@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pham Nguyen Bao Khanh</h1>
 <h3 align="center">A frontend developer from VietNam</h3>
-
+- 🔭 I’m currently working on [Project Name]
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
   <a href="https://instagram.com/khanh_pham_205" target="blank">
