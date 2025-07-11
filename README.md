@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham Nguyen Bao Khanh</h1>
-<h3 align="center">A frontend developer from VietNam</h3>
+<h3 align="center">A Web developer from VietNam</h3>
 
 🔭 I’m currently working on DATN_GivingVn
 
