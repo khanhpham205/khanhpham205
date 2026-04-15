@@ -20,14 +20,10 @@
 
 - 🎓 I'm a university student and passionate software developer.
 - 🚀 Currently focused on building robust full-stack applications and SaaS products.
-- 💡 I enjoy tackling complex architectural challenges, from configuring cloud infrastructure (AWS/Nginx) to implementing real-time WebSockets and secure payment gateways.
-- 🎮 In my free time, you can find me automating complex setups in *Oxygen Not Included* or tweaking my mechanical keyboard for the perfect keystroke.
 
 ### 🏗️ What I'm Working On
 
 - **KhashQuizz**: An EdTech platform featuring live competition modes, WebSockets, and a scalable backend built with **Next.js, NestJS, and MongoDB**.
-- **VisualThread**: A 3D apparel simulation SaaS utilizing Babylon.js to render complex models from CLO3D.
-- **Browser Tools**: Developing custom Chrome extensions, such as video-frame image search utilizing Google Lens integration.
 
 ### 🛠️ Tech Stack & Tools
 
