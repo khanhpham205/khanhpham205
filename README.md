@@ -23,7 +23,7 @@
 
 ### 🏗️ What I'm Working On
 
-- **KhashQuizz**: An EdTech SaaS platform featuring live quiz competitions, automated OMR paper grading with OpenCV, real-time WebSockets, and a scalable architecture built with Next.js, NestJS, and MongoDB.**.
+- **KhashQuizz**: An EdTech SaaS platform featuring live quiz competitions, automated OMR paper grading with OpenCV, real-time WebSockets, and a scalable architecture built with Next.js, NestJS, and MongoDB.
 
 ### 🛠️ Tech Stack & Tools
 
